@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -138.468
+TNS   : -113850.203
+
+Type  : Slow 1200mV 85C Model Setup 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : -7.057
+TNS   : -190.140
+
+Type  : Slow 1200mV 85C Model Hold 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : -2.306
+TNS   : -16.505
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : -0.419
+TNS   : -0.837
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -1072.120
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -125.487
+TNS   : -103144.118
+
+Type  : Slow 1200mV 0C Model Setup 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : -6.620
+TNS   : -178.108
+
+Type  : Slow 1200mV 0C Model Hold 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : -2.094
+TNS   : -14.865
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : -0.519
+TNS   : -1.037
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -1072.120
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : 0.302
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -69.112
+TNS   : -56739.977
+
+Type  : Fast 1200mV 0C Model Setup 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : -3.654
+TNS   : -97.869
+
+Type  : Fast 1200mV 0C Model Hold 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : -1.435
+TNS   : -12.031
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : -0.503
+TNS   : -1.005
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -890.080
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CPU:cpu|programCounter:pc|Addr[27]'
+Slack : 0.274
+TNS   : 0.000
+
+------------------------------------------------------------
