@@ -2,7 +2,7 @@
 
 Project of a 32Bit MIPS Based Processor designed for supporting a Opertional System codded in C- (C Minus, a reduced version C) and compiled using a proper compiler, for running in a FPGA board (Altera DE2-115).
 
-* The Compiler project can be find [here](https://github.com/LZafiro/cMinus-Compiler)).
+* The Compiler project can be find [here](https://github.com/LZafiro/cMinus-Compiler).
 
 The project was developed for some laboratories of the undergraduate course in Computer Engineering at the Federal University of São Paulo.
 
