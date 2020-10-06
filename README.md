@@ -60,7 +60,7 @@ The processor have 28 instructions. Follows the instruction set:
 |000100|R|Division|div|R[rd]<-R[rs] / R[rt]|
 |000101|R|Reminder of division|mod|R[rd]<-R[rs] % R[rt]|
 |000110|R|And|and|R[rd]<-R[rs] & R[rt]|
-|000111|R|Or|or|R[rd]<-R[rs] | R[rt]|
+|000111|R|Or|or|R[rd]<-R[rs] \| R[rt]|
 |001000|R|Not|not|R[rd]<- !R[rs]|
 |001001|R|Xor|xor|R[rd]<-R[rs] xor R[rt]|
 |001010|R|Set Less Then|slt|R[rs] < R[rt] ? R[rd]<-1 : R[rd]<-0|
