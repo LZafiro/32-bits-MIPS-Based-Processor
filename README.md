@@ -212,11 +212,11 @@ Binary:
 ```
 The first simulation we are calculating the 30th term of Fibonacci Series (fibo(30) = 832040):
 
-![Factorial Simulation 1](https://github.com/LZafiro/ECOMP---UNIFESP/blob/master/ECOMP%20-%20Full%20Computer%20Dev.%20Laboratories/mipsBasedProcessor/Images/Fibo_Simulation1.png)
+![Fibonacci Simulation 1](https://github.com/LZafiro/32-bits-MIPS-Based-Processor/blob/master/Images/Fibo_Simulation1.png)
 
 The second simulation we are calculating the 15th term of Fibonacci Series (fibo(15) = 610):
 
-![Factorial Simulation 2](https://github.com/LZafiro/ECOMP---UNIFESP/blob/master/ECOMP%20-%20Full%20Computer%20Dev.%20Laboratories/mipsBasedProcessor/Images/Fibo_Simulation2.png)
+![Fibonacci Simulation 2](https://github.com/LZafiro/32-bits-MIPS-Based-Processor/blob/master/Images/Fibo_Simulation2.png)
 
 # Credits
 
